@@ -1,6 +1,5 @@
-run_code_inside = true
-puts "Code before if...end"
-if run_code_inside
-  puts "code inside"
+if true
+  puts "Even!"
+else
+  puts "Odd!"
 end
-puts "Code after if...end"# Write your solution here
